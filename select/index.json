@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "DIGNITY",
+  "base_artist": "Ado",
+  "createdAt": "2026-02-23T10:36:43.942954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Death with Dignity",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/01_Death_with_Dignity_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dignity",
+      "artist": "Porcupine Tree",
+      "has_synced": false,
+      "path": "select/02_Dignity_Porcupine_Tree.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Numb (Gimme Some More Dignity Mix)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/03_Numb_(Gimme_Some_More_Dignity_Mix)_U2.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "With Dignity",
+      "artist": "Prong",
+      "has_synced": false,
+      "path": "select/04_With_Dignity_Prong.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dignity",
+      "artist": "Opeth",
+      "has_synced": false,
+      "path": "select/05_Dignity_Opeth.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dignity",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/06_Dignity_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dignity",
+      "artist": "Hilary Duff",
+      "has_synced": true,
+      "path": "select/07_Dignity_Hilary_Duff.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dignity - Richard Vission Remix",
+      "artist": "Hilary Duff",
+      "has_synced": false,
+      "path": "select/08_Dignity_-_Richard_Vission_Remix_Hilary_Duff.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dignity (Richard Vission Remix)",
+      "artist": "Hilary Duff",
+      "has_synced": false,
+      "path": "select/09_Dignity_(Richard_Vission_Remix)_Hilary_Duff.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where's Your Dignity?",
+      "artist": "The Vandals",
+      "has_synced": true,
+      "path": "select/10_Where's_Your_Dignity_The_Vandals.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dignity",
+      "artist": "Joe Cocker",
+      "has_synced": true,
+      "path": "select/11_Dignity_Joe_Cocker.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dignity",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/12_Dignity_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Big Man, Little Dignity",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/13_Big_Man,_Little_Dignity_Paramore.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DIGNITY",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_DIGNITY_Ado.txt"
+    }
+  ]
+}
